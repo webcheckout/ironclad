@@ -230,4 +230,4 @@
   (pushnew f *features*))
 
 ;; Enable assembly optimizations
-(pushnew :ironclad-assembly *features*)
+;; (pushnew :ironclad-assembly *features*)
